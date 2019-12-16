@@ -1,0 +1,11 @@
+C:\Users\Newforce41\workspace\csharp\exercises\linq\bin\Debug\netcoreapp3.0\linq.exe
+C:\Users\Newforce41\workspace\csharp\exercises\linq\bin\Debug\netcoreapp3.0\linq.deps.json
+C:\Users\Newforce41\workspace\csharp\exercises\linq\bin\Debug\netcoreapp3.0\linq.runtimeconfig.json
+C:\Users\Newforce41\workspace\csharp\exercises\linq\bin\Debug\netcoreapp3.0\linq.runtimeconfig.dev.json
+C:\Users\Newforce41\workspace\csharp\exercises\linq\bin\Debug\netcoreapp3.0\linq.dll
+C:\Users\Newforce41\workspace\csharp\exercises\linq\bin\Debug\netcoreapp3.0\linq.pdb
+C:\Users\Newforce41\workspace\csharp\exercises\linq\obj\Debug\netcoreapp3.0\linq.csprojAssemblyReference.cache
+C:\Users\Newforce41\workspace\csharp\exercises\linq\obj\Debug\netcoreapp3.0\linq.AssemblyInfoInputs.cache
+C:\Users\Newforce41\workspace\csharp\exercises\linq\obj\Debug\netcoreapp3.0\linq.AssemblyInfo.cs
+C:\Users\Newforce41\workspace\csharp\exercises\linq\obj\Debug\netcoreapp3.0\linq.dll
+C:\Users\Newforce41\workspace\csharp\exercises\linq\obj\Debug\netcoreapp3.0\linq.pdb
